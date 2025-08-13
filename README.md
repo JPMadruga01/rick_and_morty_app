@@ -2,6 +2,11 @@
 
 Aplicativo Flutter para explorar personagens da série Rick and Morty, com **busca por nome**, **paginação**, **cards que expandem ao passar o mouse (hover)**, e tela especial de **Ranking & Curiosidades**.
 
+## Demonstração
+Video: (https://github.com/user-attachments/assets/1d8e14b4-3446-4867-b078-f62970dd9f8b)
+
+
+
 ## Funcionalidades
 
 - **Busca por nome** (com debounce para evitar requisições desnecessárias)
