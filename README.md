@@ -34,7 +34,7 @@ lib/
 
 ```bash
 # Clonar repositório
-git clone https://github.com/seu-usuario/rick-morty-browser.git
+git clone (https://github.com/JPMadruga01/rick_and_morty_app.git)
 cd rick_and_morty_app
 
 # Instalar dependências
